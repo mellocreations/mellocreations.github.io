@@ -1,0 +1,35 @@
+html *
+{	
+	font-family: 'Titillium Web', sans-serif;* !important;*/
+}
+ul{
+	list-style:none;
+}
+body{
+	background-image:url('../img/back_tile.png');
+	/*background-size:100%;*/
+	background-repeat:repeat;
+    overflow: hidden;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+body, ul, li, h1, h2, span{
+	margin:0;
+	padding:0;
+}
+
+.fullHeight {
+	height:100%;
+}
+.central_container{
+	
+	 width:940px;
+    height:596px;
+    position:absolute;
+    top:0;
+    bottom:0;
+    
+    margin:auto;
+}
+
+

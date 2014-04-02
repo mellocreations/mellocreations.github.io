@@ -1,0 +1,26 @@
+
+.whatWeDoHeader{
+	text-transform:none;
+	text-decoration:none;
+	text-align:right;
+	float:right;
+	font-weight: 200;
+	font-size:5em;
+
+	position:relative;
+	top:0px;
+	font-family: 'Titillium Web', sans-serif;
+	margin-left: 20px !important;
+}
+
+.whatWeDoContents{
+	height:110px;
+	background-color:rgba(255,255,255,.25);
+	color:#707070;/*#757575;*/
+	font-size:1.4em;
+	line-height:120%;
+	padding-left:35px;
+	padding-top:15px;
+	margin-left:-20px !important;
+	z-index:10000;
+}

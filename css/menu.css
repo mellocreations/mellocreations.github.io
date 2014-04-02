@@ -1,0 +1,35 @@
+.meni {
+	/*background-color:#2183c4;/*#cfef34;*/
+	color:#fff;
+	font-size:1.8em;
+	text-transform:uppercase;
+}
+
+.meni-element {
+	height: auto;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	cursor:pointer;
+	line-height: normal;
+	padding-right: 10px;
+}
+
+.whatWeDoColor:hover {
+	background-color:rgba(173, 238, 52, 0.7);
+}
+
+.projectsColor:hover {
+	background-color:rgba(173, 0, 255, 0.6);
+}
+
+.collaboratorsColor:hover {
+	background-color:rgba(255,234, 0, 0.6);/*rgba(62,219,0,0.6)* (243,206,0,.7)*/
+}
+
+.aboutUsColor:hover {
+	background-color:rgba(23, 132, 234, .6); 
+}
+
+.contactColor:hover {
+	background-color:rgba(255,0,100,0.6); 
+}

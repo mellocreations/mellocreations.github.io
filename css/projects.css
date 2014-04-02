@@ -1,0 +1,33 @@
+/* OD DIREKTOROT  :D :D :D :D :D */
+/* projectLeft - imeto mu e od leva strana */
+.projectLeft .projectName, .projectLeft .projectName a {
+	font-size:1.2em;
+	text-align:right;
+	color:#fff;
+}
+
+.projectLeft .projectDescription {
+	background-color:rgba(255,255,255,.25); 
+	min-height:30px;
+	font-size:1.1em;
+	padding:12px 18px;
+}
+
+/* projectRight - imeto mu e od desna strana */
+.projectRight .projectName, .projectRight .projectName a {
+	font-size:1.2em;
+	text-align:left;
+	color:#fff;
+}
+
+.projectRight .projectDescription {
+	background-color:rgba(255,255,255,.25); 
+	min-height:30px;
+	font-size:1.1em;
+	padding:12px 18px;
+}
+
+.projectName a:hover {
+	color:#89aaff;
+	text-decoration:none;
+}
